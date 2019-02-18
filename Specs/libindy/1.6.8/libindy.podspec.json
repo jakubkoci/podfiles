@@ -1,0 +1,23 @@
+{
+  "name": "libindy",
+  "version": "1.6.8",
+  "summary": "Summary TODO.",
+  "description": "Description TODO.",
+  "homepage": "TODO",
+  "license": {
+    "type": "Apache License 2.0",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Jakub Koci": "jakub.koci@gmail.com"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source": {
+    "http": "https://s3-eu-west-1.amazonaws.com/files.jakubkoci.com/libindy.tar.gz"
+  },
+  "source_files": "*.h",
+  "vendored_libraries": "*.a",
+  "requires_arc": false
+}
